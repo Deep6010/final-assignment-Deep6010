@@ -1,2 +1,2 @@
 # Final Assignmnent
-###### Hospital_Management_System Project made with **_Python, Tkinter and MySQl.**_
+###### Hospital_Management_System Project made with ***Python, Tkinter and MySQl.***
