@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54173ff5-2db1-4844-99e7-89efb169ce2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gWkTuNxwSyvm1p6tErUYWS3slG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.signin">
+    <configuration name="signin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hospital_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/front_end" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/front_end/signin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_.test_patient" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Hospital_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_.test_patient&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testing.test_.test_patient.test_insert" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Hospital_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testing.test_.test_patient.test_insert&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testing.test_.test_patient.test_update" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Hospital_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testing.test_.test_patient.test_update&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Hospital_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testing/test_.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.signin" />
+        <item itemvalue="Python tests.Unittests in test_.py" />
+        <item itemvalue="Python tests.Unittests for test_.test_patient" />
+        <item itemvalue="Python tests.Unittests for testing.test_.test_patient.test_insert" />
+        <item itemvalue="Python tests.Unittests for testing.test_.test_patient.test_update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54173ff5-2db1-4844-99e7-89efb169ce2f" name="Default Changelist" comment="" />
+      <created>1598237746581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598237746581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="30" key="#Inspections" timestamp="1598465572052">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="30" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1598465572052" />
+    <state x="402" y="0" key="#manage_patient" timestamp="1599725917003">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="402" y="0" key="#manage_patient/0.0.1366.738@0.0.1366.738" timestamp="1599725917003" />
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom" timestamp="1601446816486">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601446816486" />
+    <state width="1345" height="2" key="GridCell.Tab.0.center" timestamp="1601446816486">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601446816486" />
+    <state width="1345" height="2" key="GridCell.Tab.0.left" timestamp="1601446816486">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601446816486" />
+    <state width="1345" height="2" key="GridCell.Tab.0.right" timestamp="1601446816486">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601446816486" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1601441725403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601441725403" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1601441725403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1601441725403" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1601441725403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1601441725403" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1601441725403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1601441725403" />
+    <state x="368" y="18" key="SettingsEditor" timestamp="1599914252166">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="368" y="18" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599914252166" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1601437476619">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1601437476619" />
+    <state x="335" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598260876127">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="335" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1598260876127" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599729248921">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1599729248921" />
+  </component>
+</project>
